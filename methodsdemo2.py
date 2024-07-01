@@ -1,7 +1,4 @@
-"""
-A group of code statements which can perform some specific task
-Methods are reusable and can be called when needed in the code
-"""
+
 
 def sum_nums(n1, n2):
     """

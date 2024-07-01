@@ -1,6 +1,3 @@
-"""
-Variable Scope
-"""
 
 a = 10
 
