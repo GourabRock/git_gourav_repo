@@ -22,3 +22,8 @@ def test_method():
 print("Value of global a is: " + str(a))
 test_method()
 print("Did the value of global 'a' change? " + str(a))
+
+1. Starting the Merge Process 
+If there are changes in the working directory’s stage area for the current project, merging won’t start. 
+
+In this case, conflicts happen due to pending changes that need to be stabilized using different
